@@ -1,0 +1,113 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Rashid Mohsunov
+title: IT Specialist
+email: contact@rashidmohsunov.com
+website: rashidmohsunov.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username:  rashidmsn
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+linkedin_username: rashidmohsunov
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: rashidmohsunov
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: rashidmohsunov.com
+  icon: fas fa-globe
+  url: https://www.rashidmohsunov.com
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Rashid and I'm a IT Specialist.
+
+  I am mostly interested in: <mark>IT Operations</mark> and <mark>Reading Books</mark>
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Avromak LLC
+        link: avromak.az
+        # link_text: boringcompany.com
+        sub_title: IT Specialist
+        caption: Agust 2020 - May 2023
+        quote: >
+          As an IT Specialist, I thrived in resolving hardware, network, and software issues while delivering exceptional customer support, ensuring seamless technology operations.
+        description: | # this will include new lines to allow paragraphs
+            In my role as an IT Specialist, I gained valuable expertise in hardware, network, and software troubleshooting, while consistently delivering exceptional customer tech support and ensuring seamless technology operations. My proven track record includes effectively identifying and resolving hardware issues, diagnosing network problems, and troubleshooting software-related challenges.
+
+
+
+
+
+
+
+
+
+
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: CompTIA
+        link: comptia.org        
+        caption: October 2022
+        sub_title:  IT Fundamentals (ITF+)
+        quote: >
+          The Computing Technology Industry (CompTIA) Association is an American non-profit trade association that issues professional certifications for the information technology (IT) industry. It is considered one of the IT industry's top trade associations.
+        description: | # this will include new lines to allow paragraphs
+          The CompTIA IT Fundamentals (ITF+) exam focuses on the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, software development and database use.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in IT Operations and Computer Networks some of my other interests and hobbies are:
+      - Software Engineering
+      - Reading Books
+      - Watching Documentaries
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
