@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Rashid Mohsunov
-title: IT Specialist
-email: contact@rashidmohsunov.com
+title: International Relations Student at BAIBU
 website: rashidmohsunov.com
 
 # Dark Mode (true/false/never)
@@ -48,9 +47,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rashid and I'm a IT Specialist.
+  Hi, my name is Rashid and I am an International Relations student at BAIBU. I formerly worked as an IT specialist.
 
-  I am mostly interested in: <mark>IT Operations</mark> and <mark>Reading Books</mark>
+  I am currently interested in: <mark>Politics</mark>,<mark>History</mark> and <mark>Reading</mark>
 
 content:
   - title: Experience # Title for the section
@@ -93,9 +92,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in IT Operations and Computer Networks some of my other interests and hobbies are:
-      - Software Engineering
-      - Reading Books
+      Alongside my interests in Politics and IT Operations some of my other interests and hobbies are:
+      - Economics
+      - Social Sciences
       - Watching Documentaries
 
 # Footer
