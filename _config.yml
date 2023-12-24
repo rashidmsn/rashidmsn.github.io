@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Rashid and I am an International Relations student at BAIBU. I formerly worked as an IT specialist.
 
-  I am currently interested in: <mark>Politics</mark><mark>History</mark> and <mark>Reading</mark>
+  I am currently interested in: <mark>Politics</mark> <mark>History</mark> and <mark>Reading</mark>
 
 content:
   - title: Experience # Title for the section
