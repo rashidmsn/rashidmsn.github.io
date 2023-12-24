@@ -8,22 +8,19 @@ version: 2
 # Personal info
 name: Rashid Mohsunov
 title: International Relations Student at BAIBU
-website: mohsunov.com
-website: rashidmohsunov.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-# github_username:  rashidmsn
+github_username:  rashidmsn
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: rashidmohsunov
-github_username:  rashidmsn
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: rashidmohsunov
