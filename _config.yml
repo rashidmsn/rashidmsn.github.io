@@ -97,8 +97,8 @@ content:
       - Watching Documentaries
 
 # Footer
-footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: true
+123
 
 # Build settings
 remote_theme: sproogen/resume-theme
