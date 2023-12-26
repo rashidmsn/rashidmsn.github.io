@@ -97,8 +97,7 @@ content:
       - Watching Documentaries
 
 # Footer
-footer_show_references: true
-123
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
