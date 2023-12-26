@@ -98,6 +98,7 @@ content:
 
 # Footer
 footer_show_references: false
+# Something something when removed not work
 
 # Build settings
 remote_theme: sproogen/resume-theme
